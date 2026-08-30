@@ -1,6 +1,6 @@
 
 
-from playwright.sync_api import sync_playwright,Page,expect,Playwright
+from playwright.sync_api import sync_playwright,Page,expect,playwright
 from pages.orange_login import LoginPage
 
 
